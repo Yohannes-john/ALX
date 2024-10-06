@@ -1,9 +1,14 @@
 function checkAnswer() {
-    
+    const correctAnswer =4;
+    return correctAnswer
 }
-document.querySelector
-if (#choice1) {
-    Correct! Well done. 
+const name=document.querySelector('quiz')
+   function userAnswer{}{
+      return value 
+}
+if (correctAnswer === userAnswer) {
+    feedback = "Correct! Well done."
 } else {
-    That's incorrect. Try again!
+     feedback = "That's incorrect. Try again!"
 }
+const button=documentgetElementById('submit-answer')
