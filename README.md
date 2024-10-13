@@ -1,1 +1,1 @@
-ALX-Simple_QuizEDER
+ALX-Simple_Quiz
